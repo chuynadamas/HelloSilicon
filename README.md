@@ -1,6 +1,11 @@
+# Purpose
+
+I used this repo for the study of the assambler and 64-Bit ARM architecture.
+
+
 # HelloSilicon
 
-An attempt with assembly on the new Apple Silicon Macs.
+An attempt with assembly on the new Apple Silicon Macs. 
 
 ## Introduction
 
